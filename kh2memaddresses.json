@@ -1,6 +1,5 @@
 {
-    "steam 0.10": [
-      {
+    "steam 0.10": {
         "GameVersionCheck":"0x9A98B0",
         "Now":     "0x0717008",
         "Save":    "0x09A9830",
@@ -8,9 +7,8 @@
         "Journal": "0",
         "Shop":    "0"
       }
-    ],
-    "epic 0.10": [
-      {
+    ,
+    "epic 0.10": {
         "GameVersionCheck":"0x9A9330",
         "Now":     "0x716DF8",
         "Save":    "0x9A9330",
@@ -18,5 +16,4 @@
         "Journal": "0",
         "Shop":    "0"
       }
-    ]
 }
