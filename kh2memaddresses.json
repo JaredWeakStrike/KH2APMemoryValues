@@ -4,8 +4,8 @@
         "Now":     "0x0717008",
         "Save":    "0x09A9830",
         "Slot1":   "0x2A23518",
-        "Journal": "0",
-        "Shop":    "0"
+        "Journal": "0x7434E0",
+        "Shop":    "0x7435D0"
       }
     ,
     "epic 0.10": {
@@ -13,7 +13,7 @@
         "Now":     "0x716DF8",
         "Save":    "0x9A9330",
         "Slot1":   "0x2A23018",
-        "Journal": "0",
-        "Shop":    "0"
+        "Journal": "0x743260",
+        "Shop":    "0x743350"
       }
 }
